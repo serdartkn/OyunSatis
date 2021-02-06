@@ -16,6 +16,7 @@ namespace OyunSatis
             gtav.GameName = "GTA";
             gtav.GamePrice = 385;
 
+
             //GamerManager gamerManager = new GamerManager(new CheckRealGamer());
             //gamerManager.Add(serdar);
 
